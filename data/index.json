@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Solving 4^x \u2212 5(2^x) + 4 = 0 as a hidden quadratic equation",
+    "subject": "amath",
+    "topic": "Exponential Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-08",
+    "slug": "exponential-equation-quadratic-form"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -36,6 +45,15 @@
     "slug": "mole-calculation-caco3-decomposition"
   },
   {
+    "title": "Calculating rate of reaction from a gas volume\u2013time table for CaCO3 and HCl",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-08",
+    "slug": "rate-of-reaction-gas-volume-time-graph"
+  },
+  {
     "title": "Finding the concentration of NaOH from titration results",
     "subject": "chemistry",
     "topic": "Acids, Bases and Titration",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Counting the number of swaps performed by bubble sort on [5, 1, 4, 2, 8]",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-08",
+    "slug": "bubble-sort-number-of-swaps"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -97,6 +124,24 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Finding the volume and total surface area of a cone from base radius and slant height",
+    "subject": "emath",
+    "topic": "Mensuration",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-08",
+    "slug": "volume-surface-area-of-a-cone"
+  },
+  {
+    "title": "Finding the foot of perpendicular from a point to a line in vector form",
+    "subject": "h2-math",
+    "topic": "Vectors",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-08",
+    "slug": "foot-of-perpendicular-point-to-line"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
