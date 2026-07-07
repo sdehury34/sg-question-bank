@@ -18,6 +18,15 @@
     "slug": "tangent-to-cubic-curve"
   },
   {
+    "title": "Mass of copper deposited during electrolysis of copper sulfate solution",
+    "subject": "chemistry",
+    "topic": "Electrolysis",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "electrolysis-mass-copper-deposited"
+  },
+  {
     "title": "Mass of CO\u2082 produced from decomposing 10 g of calcium carbonate",
     "subject": "chemistry",
     "topic": "The Mole Concept",
@@ -52,6 +61,24 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Evaluating a postfix expression using a stack",
+    "subject": "data-structures",
+    "topic": "Stacks and Queues",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "postfix-expression-stack-evaluation"
+  },
+  {
+    "title": "Using the cosine rule to find a side of a non-right-angled triangle",
+    "subject": "emath",
+    "topic": "Trigonometry",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "cosine-rule-finding-a-side"
   },
   {
     "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
@@ -99,6 +126,15 @@
     "slug": "free-fall-from-45m"
   },
   {
+    "title": "Finding where to hang a weight to balance a metre rule",
+    "subject": "physics",
+    "topic": "Moments and Equilibrium",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "moments-balancing-metre-rule"
+  },
+  {
     "title": "Current in a combined series\u2013parallel resistor circuit",
     "subject": "physics",
     "topic": "DC Circuits",
@@ -124,5 +160,14 @@
     "difficulty": "Medium",
     "date": "2026-07-02",
     "slug": "python-palindrome-function"
+  },
+  {
+    "title": "Number of recursive calls in fast exponentiation of 3 to the power 13",
+    "subject": "programming",
+    "topic": "Recursion",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "recursive-fast-exponentiation-calls"
   }
 ]

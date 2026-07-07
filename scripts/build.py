@@ -369,6 +369,14 @@ def main() -> None:
         shutil.rmtree(DIST)
     DIST.mkdir()
 
+    # Static passthrough: files in static/ (verification files, favicons, ...)
+    # are copied to the site root as-is.
+    static = ROOT / "static"
+    if static.exists():
+        for f in static.iterdir():
+            if f.is_file():
+                shutil.copy2(f, DIST / f.name)
+
     (DIST / "index.html").write_text(home_page(questions), encoding="utf-8")
     urls = ["/"]
 

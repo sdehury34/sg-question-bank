@@ -25,9 +25,11 @@ titled `Daily questions — YYYY-MM-DD`, for the site owner to review and merge.
    format below. The slug must be lowercase-kebab-case and unique.
 5. **Validate:** run `python scripts/build.py`. It must exit successfully with
    no ERROR lines. Fix any problems before committing.
-6. **Open a pull request** with all 5 files on a branch named
-   `daily/YYYY-MM-DD`, with a body listing each question title and one line on
-   why that topic was chosen.
+6. **Open a pull request** on a branch named `daily/YYYY-MM-DD` containing the
+   5 new content files **and the regenerated `data/index.json`** (the build in
+   step 5 updates it — committing it keeps the duplicate-avoidance index
+   current). The PR body lists each question title and one line on why that
+   topic was chosen.
 
 ## Content rules (quality bar)
 
