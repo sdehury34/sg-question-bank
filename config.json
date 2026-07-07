@@ -2,7 +2,7 @@
   "site_name": "SG Question Bank",
   "tagline": "Free practice questions with worked solutions for Singapore students",
   "base_url": "https://sdehury34.github.io/sg-question-bank",
-  "analytics_snippet": "",
+  "analytics_snippet": "<script data-goatcounter=\"https://sg-question-bank.goatcounter.com/count\" async src=\"//gc.zgo.at/count.js\"></script>",
   "support_link": "",
   "subjects": {
     "emath": { "name": "O-Level E-Math", "blurb": "Elementary Mathematics (4048) practice questions with full worked solutions." },
