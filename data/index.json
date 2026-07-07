@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Term independent of x in the expansion of (2x \u2212 1/x\u00b2)\u2079",
+    "subject": "amath",
+    "topic": "Binomial Theorem",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-06",
+    "slug": "binomial-term-independent-of-x"
+  },
+  {
+    "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
+    "subject": "amath",
+    "topic": "Differentiation",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-06",
+    "slug": "tangent-to-cubic-curve"
+  },
+  {
+    "title": "Mass of CO\u2082 produced from decomposing 10 g of calcium carbonate",
+    "subject": "chemistry",
+    "topic": "The Mole Concept",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-03",
+    "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Finding the concentration of NaOH from titration results",
+    "subject": "chemistry",
+    "topic": "Acids, Bases and Titration",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-03",
+    "slug": "titration-concentration-of-naoh"
+  },
+  {
+    "title": "Big-O analysis of a triangular nested loop and a halving loop",
+    "subject": "data-structures",
+    "topic": "Complexity Analysis",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-01",
+    "slug": "big-o-nested-loops"
+  },
+  {
+    "title": "Maximum comparisons in binary search on 1000 elements",
+    "subject": "data-structures",
+    "topic": "Searching Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-01",
+    "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
+    "subject": "emath",
+    "topic": "Quadratic Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-05",
+    "slug": "quadratic-completing-the-square"
+  },
+  {
+    "title": "Finding original speed from a 240 km journey word problem",
+    "subject": "emath",
+    "topic": "Algebraic Word Problems",
+    "level": "O-Level",
+    "difficulty": "Hard",
+    "date": "2026-07-05",
+    "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
+    "subject": "h2-math",
+    "topic": "Sequences and Series",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "geometric-series-least-n"
+  },
+  {
+    "title": "Evaluating \u222b\u2080\u00b9 x e\u00b2\u02e3 dx using integration by parts",
+    "subject": "h2-math",
+    "topic": "Integration Techniques",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-07",
+    "slug": "integration-by-parts-x-e2x"
+  },
+  {
+    "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
+    "subject": "physics",
+    "topic": "Kinematics",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-04",
+    "slug": "free-fall-from-45m"
+  },
+  {
+    "title": "Current in a combined series\u2013parallel resistor circuit",
+    "subject": "physics",
+    "topic": "DC Circuits",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-04",
+    "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Predicting the output of Python list slicing",
+    "subject": "programming",
+    "topic": "Python Basics",
+    "level": "Poly / University",
+    "difficulty": "Easy",
+    "date": "2026-07-02",
+    "slug": "python-list-slicing-output"
+  },
+  {
+    "title": "Writing a palindrome checker that ignores case and punctuation",
+    "subject": "programming",
+    "topic": "Python Basics",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-02",
+    "slug": "python-palindrome-function"
+  }
+]
