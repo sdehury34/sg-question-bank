@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Partial fractions of (5x \u2212 4)/((x \u2212 2)(x + 1))",
+    "subject": "amath",
+    "topic": "Partial Fractions",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-09",
+    "slug": "partial-fractions-distinct-linear-factors"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -25,6 +34,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "electrolysis-mass-copper-deposited"
+  },
+  {
+    "title": "Finding the empirical formula of an iron oxide from percentage composition",
+    "subject": "chemistry",
+    "topic": "Empirical and Molecular Formulae",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-09",
+    "slug": "empirical-formula-iron-oxide"
   },
   {
     "title": "Mass of CO\u2082 produced from decomposing 10 g of calcium carbonate",
@@ -63,6 +81,15 @@
     "slug": "binary-search-max-comparisons"
   },
   {
+    "title": "Counting key comparisons in insertion sort on [5, 2, 4, 6, 1, 3]",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-09",
+    "slug": "insertion-sort-comparison-count"
+  },
+  {
     "title": "Evaluating a postfix expression using a stack",
     "subject": "data-structures",
     "topic": "Stacks and Queues",
@@ -81,6 +108,15 @@
     "slug": "cosine-rule-finding-a-side"
   },
   {
+    "title": "Probability of drawing two red balls without replacement from a bag",
+    "subject": "emath",
+    "topic": "Probability",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-09",
+    "slug": "probability-two-red-balls-without-replacement"
+  },
+  {
     "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
     "subject": "emath",
     "topic": "Quadratic Equations",
@@ -97,6 +133,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Finding the cube roots of 8i using De Moivre's Theorem",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Hard",
+    "date": "2026-07-09",
+    "slug": "cube-roots-of-8i-de-moivre"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
