@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Factor theorem \u2014 finding a and b in a cubic given two of its factors",
+    "subject": "amath",
+    "topic": "Factor Theorem",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-10",
+    "slug": "factor-theorem-cubic-two-factors"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -36,6 +45,15 @@
     "slug": "mole-calculation-caco3-decomposition"
   },
   {
+    "title": "Calculating average rate of reaction from a gas volume-time graph",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-10",
+    "slug": "rate-of-reaction-marble-chips-hcl"
+  },
+  {
     "title": "Finding the concentration of NaOH from titration results",
     "subject": "chemistry",
     "topic": "Acids, Bases and Titration",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Building a binary search tree by insertion and finding its in-order traversal and height",
+    "subject": "data-structures",
+    "topic": "Binary Search Trees",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-10",
+    "slug": "bst-insertion-inorder-height"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -97,6 +124,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Expressing a complex number in polar form and applying De Moivre's theorem",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-10",
+    "slug": "de-moivre-theorem-polar-form-power"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
@@ -142,6 +178,15 @@
     "difficulty": "Medium",
     "date": "2026-07-04",
     "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Predicting the output of a Python word-frequency counter sorted by count",
+    "subject": "programming",
+    "topic": "Dictionaries",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-10",
+    "slug": "python-dict-word-frequency-sort"
   },
   {
     "title": "Predicting the output of Python list slicing",
