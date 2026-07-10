@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Solving simultaneous equations y = x + 1 and x\u00b2 + y\u00b2 = 13",
+    "subject": "amath",
+    "topic": "Simultaneous Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-11",
+    "slug": "simultaneous-linear-quadratic-x-y"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Calculating rate of reaction from a gas-volume time table (Mg + HCl)",
+    "subject": "chemistry",
+    "topic": "Rates of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-11",
+    "slug": "rate-of-reaction-gas-volume-graph"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -63,6 +81,15 @@
     "slug": "binary-search-max-comparisons"
   },
   {
+    "title": "Preorder, inorder and postorder traversal of a binary tree",
+    "subject": "data-structures",
+    "topic": "Binary Trees",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-11",
+    "slug": "binary-tree-traversals-preorder-inorder-postorder"
+  },
+  {
     "title": "Evaluating a postfix expression using a stack",
     "subject": "data-structures",
     "topic": "Stacks and Queues",
@@ -81,6 +108,15 @@
     "slug": "cosine-rule-finding-a-side"
   },
   {
+    "title": "Probability both balls drawn are the same colour without replacement",
+    "subject": "emath",
+    "topic": "Probability",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-11",
+    "slug": "probability-two-balls-same-colour-no-replacement"
+  },
+  {
     "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
     "subject": "emath",
     "topic": "Quadratic Equations",
@@ -97,6 +133,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Finding the modulus-argument form of z = \u221a3 \u2212 i and evaluating z\u2076",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-11",
+    "slug": "complex-number-modulus-argument-z6"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
