@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Solving log\u2083x + log\u2083(x \u2212 2) = 1",
+    "subject": "amath",
+    "topic": "Logarithms",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-12",
+    "slug": "solving-log-equations-base-3"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -25,6 +34,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "electrolysis-mass-copper-deposited"
+  },
+  {
+    "title": "Finding the empirical formula of an iron oxide from mass data",
+    "subject": "chemistry",
+    "topic": "Empirical Formula",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-12",
+    "slug": "empirical-formula-iron-oxide"
   },
   {
     "title": "Mass of CO\u2082 produced from decomposing 10 g of calcium carbonate",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Resolving collisions with linear probing in a hash table",
+    "subject": "data-structures",
+    "topic": "Hashing",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-12",
+    "slug": "hash-table-linear-probing"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -117,6 +144,15 @@
     "slug": "integration-by-parts-x-e2x"
   },
   {
+    "title": "Shortest distance from a point to a line in vector form",
+    "subject": "h2-math",
+    "topic": "Vectors",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-12",
+    "slug": "vector-distance-point-to-line"
+  },
+  {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
     "subject": "physics",
     "topic": "Kinematics",
@@ -169,5 +205,14 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "recursive-fast-exponentiation-calls"
+  },
+  {
+    "title": "Finding a pair that sums to a target using the two-pointer technique",
+    "subject": "programming",
+    "topic": "Two Pointers",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-12",
+    "slug": "two-pointer-pair-sum"
   }
 ]
