@@ -18,6 +18,15 @@
     "slug": "tangent-to-cubic-curve"
   },
   {
+    "title": "Solving 2cos\u00b2\u03b8 \u2212 sin\u03b8 \u2212 1 = 0 for 0\u00b0 \u2264 \u03b8 \u2264 360\u00b0",
+    "subject": "amath",
+    "topic": "Trigonometric Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-13",
+    "slug": "trig-equation-double-angle-quadratic"
+  },
+  {
     "title": "Mass of copper deposited during electrolysis of copper sulfate solution",
     "subject": "chemistry",
     "topic": "Electrolysis",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Average rate of reaction from a volume of CO\u2082 gas vs time table",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-13",
+    "slug": "rate-of-reaction-gas-volume-time-graph"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Counting the number of swaps in bubble sort on a 5-element array",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-13",
+    "slug": "bubble-sort-swap-count"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -97,6 +124,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Expressing (1 + i\u221a3)\u2076 in the form a + bi using De Moivre's Theorem",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-13",
+    "slug": "de-moivre-sixth-power"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
@@ -142,6 +178,15 @@
     "difficulty": "Medium",
     "date": "2026-07-04",
     "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Predicting the output of a nested Python list comprehension with a filter",
+    "subject": "programming",
+    "topic": "List Comprehensions",
+    "level": "Poly / University",
+    "difficulty": "Easy",
+    "date": "2026-07-13",
+    "slug": "nested-list-comprehension-output"
   },
   {
     "title": "Predicting the output of Python list slicing",
