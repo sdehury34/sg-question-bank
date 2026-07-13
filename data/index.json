@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Solving 2sin\u00b2x \u2212 cos x = 1 for 0\u00b0 \u2264 x \u2264 360\u00b0",
+    "subject": "amath",
+    "topic": "Trigonometric Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-14",
+    "slug": "solving-2sin2x-minus-cosx-equals-1"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Identifying the oxidising and reducing agent in Cl2 + 2KI \u2192 2KCl + I2",
+    "subject": "chemistry",
+    "topic": "Redox Reactions",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-14",
+    "slug": "redox-oxidising-reducing-agent-chlorine-iodide"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -63,6 +81,15 @@
     "slug": "binary-search-max-comparisons"
   },
   {
+    "title": "Number of comparisons made by insertion sort on [5, 2, 4, 6, 1, 3]",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-14",
+    "slug": "insertion-sort-number-of-comparisons"
+  },
+  {
     "title": "Evaluating a postfix expression using a stack",
     "subject": "data-structures",
     "topic": "Stacks and Queues",
@@ -79,6 +106,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "cosine-rule-finding-a-side"
+  },
+  {
+    "title": "Probability of drawing two balls of different colours without replacement",
+    "subject": "emath",
+    "topic": "Probability of Combined Events",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-14",
+    "slug": "probability-two-balls-different-colours"
   },
   {
     "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
@@ -115,6 +151,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "integration-by-parts-x-e2x"
+  },
+  {
+    "title": "Maclaurin series of ln(1 + 2x) up to the term in x\u00b3",
+    "subject": "h2-math",
+    "topic": "Maclaurin Series",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-14",
+    "slug": "maclaurin-series-ln-1-plus-2x"
   },
   {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
