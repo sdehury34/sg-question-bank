@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Solving 5^(2x\u22121) = 3^(x+2) using logarithms",
+    "subject": "amath",
+    "topic": "Logarithmic and Exponential Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-15",
+    "slug": "exponential-equation-logarithms"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -36,6 +45,15 @@
     "slug": "mole-calculation-caco3-decomposition"
   },
   {
+    "title": "Calculating rate of reaction from CO2 gas collected in the first 20 seconds",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-15",
+    "slug": "rate-of-reaction-gas-collection"
+  },
+  {
     "title": "Finding the concentration of NaOH from titration results",
     "subject": "chemistry",
     "topic": "Acids, Bases and Titration",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Counting comparisons made by insertion sort on [5, 2, 4, 6, 1, 3]",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-15",
+    "slug": "insertion-sort-comparisons"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -117,6 +144,15 @@
     "slug": "integration-by-parts-x-e2x"
   },
   {
+    "title": "Poisson distribution \u2014 probability of more than 4 calls in 5 minutes",
+    "subject": "h2-math",
+    "topic": "The Poisson Distribution",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-15",
+    "slug": "poisson-distribution-probability"
+  },
+  {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
     "subject": "physics",
     "topic": "Kinematics",
@@ -142,6 +178,15 @@
     "difficulty": "Medium",
     "date": "2026-07-04",
     "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Finding the specific heat capacity of water using an immersion heater",
+    "subject": "physics",
+    "topic": "Specific Heat Capacity",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-15",
+    "slug": "specific-heat-capacity-immersion-heater"
   },
   {
     "title": "Predicting the output of Python list slicing",
