@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Finding unknown coefficients using the remainder theorem",
+    "subject": "amath",
+    "topic": "Remainder Theorem",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-16",
+    "slug": "remainder-theorem-two-unknowns"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -36,6 +45,15 @@
     "slug": "mole-calculation-caco3-decomposition"
   },
   {
+    "title": "Calculating rate of reaction from a gas volume-time graph",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-16",
+    "slug": "rate-of-reaction-gas-volume-time-graph"
+  },
+  {
     "title": "Finding the concentration of NaOH from titration results",
     "subject": "chemistry",
     "topic": "Acids, Bases and Titration",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Tracing merge sort and counting comparisons on a 7-element array",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-16",
+    "slug": "merge-sort-trace-comparisons"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -117,6 +144,15 @@
     "slug": "integration-by-parts-x-e2x"
   },
   {
+    "title": "Shortest distance from a point to a line in vector form",
+    "subject": "h2-math",
+    "topic": "Vectors",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-16",
+    "slug": "vectors-shortest-distance-point-to-line"
+  },
+  {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
     "subject": "physics",
     "topic": "Kinematics",
@@ -151,6 +187,15 @@
     "difficulty": "Easy",
     "date": "2026-07-02",
     "slug": "python-list-slicing-output"
+  },
+  {
+    "title": "Predicting the output of Python class inheritance with super()",
+    "subject": "programming",
+    "topic": "Object-Oriented Programming",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-16",
+    "slug": "python-oop-inheritance-super-output"
   },
   {
     "title": "Writing a palindrome checker that ignores case and punctuation",
