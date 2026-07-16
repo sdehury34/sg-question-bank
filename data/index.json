@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Finding unknown coefficients in a cubic using the factor and remainder theorems",
+    "subject": "amath",
+    "topic": "Factor Theorem",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-17",
+    "slug": "factor-theorem-unknown-coefficients-cubic"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Calculating average rate of reaction between magnesium and hydrochloric acid",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-17",
+    "slug": "rate-of-reaction-magnesium-hydrochloric-acid"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -99,6 +117,15 @@
     "slug": "speed-distance-quadratic-word-problem"
   },
   {
+    "title": "Finding the modulus and argument of a product and quotient of complex numbers",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-17",
+    "slug": "complex-numbers-polar-form-product-quotient"
+  },
+  {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
     "subject": "h2-math",
     "topic": "Sequences and Series",
@@ -115,6 +142,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "integration-by-parts-x-e2x"
+  },
+  {
+    "title": "Finding the critical angle and checking for total internal reflection at a glass-air boundary",
+    "subject": "physics",
+    "topic": "Light \u2014 Refraction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-17",
+    "slug": "critical-angle-total-internal-reflection"
   },
   {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
@@ -142,6 +178,15 @@
     "difficulty": "Medium",
     "date": "2026-07-04",
     "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Tracing bubble sort passes and counting swaps on a small list",
+    "subject": "programming",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-17",
+    "slug": "bubble-sort-pass-trace-swaps"
   },
   {
     "title": "Predicting the output of Python list slicing",
