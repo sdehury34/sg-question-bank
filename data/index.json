@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Solving 2^(2x+1) \u2212 9(2^x) + 4 = 0 using substitution",
+    "subject": "amath",
+    "topic": "Indices, Surds and Exponential Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-18",
+    "slug": "exponential-equation-substitution"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Calculating average rate of reaction from a gas-collection graph",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-18",
+    "slug": "rate-of-reaction-gas-collection"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -99,6 +117,15 @@
     "slug": "speed-distance-quadratic-word-problem"
   },
   {
+    "title": "Using De Moivre's Theorem to evaluate (1 + i\u221a3)^6",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-18",
+    "slug": "de-moivre-complex-power"
+  },
+  {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
     "subject": "h2-math",
     "topic": "Sequences and Series",
@@ -115,6 +142,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "integration-by-parts-x-e2x"
+  },
+  {
+    "title": "Finding the critical angle for glass and checking for total internal reflection",
+    "subject": "physics",
+    "topic": "Refraction of Light",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-18",
+    "slug": "critical-angle-total-internal-reflection"
   },
   {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
@@ -142,6 +178,15 @@
     "difficulty": "Medium",
     "date": "2026-07-04",
     "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Tracing output of Python inheritance with super() method overriding",
+    "subject": "programming",
+    "topic": "Object-Oriented Programming",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-18",
+    "slug": "python-inheritance-super-trace"
   },
   {
     "title": "Predicting the output of Python list slicing",
