@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Using the factor and remainder theorems to factorise a cubic completely",
+    "subject": "amath",
+    "topic": "Factor and Remainder Theorem",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-19",
+    "slug": "factor-remainder-theorem-cubic"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -25,6 +34,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "electrolysis-mass-copper-deposited"
+  },
+  {
+    "title": "Calculating the enthalpy change of neutralisation from calorimetry data",
+    "subject": "chemistry",
+    "topic": "Energetics",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-19",
+    "slug": "enthalpy-change-of-neutralisation"
   },
   {
     "title": "Mass of CO\u2082 produced from decomposing 10 g of calcium carbonate",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Building a binary search tree and finding its traversals",
+    "subject": "data-structures",
+    "topic": "Binary Search Trees",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-19",
+    "slug": "bst-insertion-and-traversals"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -115,6 +142,24 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "integration-by-parts-x-e2x"
+  },
+  {
+    "title": "Finding probabilities and a percentile using the normal distribution",
+    "subject": "h2-math",
+    "topic": "Normal Distribution",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-19",
+    "slug": "normal-distribution-height-probability"
+  },
+  {
+    "title": "Finding the critical angle and predicting total internal reflection",
+    "subject": "physics",
+    "topic": "Light and Refraction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-19",
+    "slug": "critical-angle-total-internal-reflection"
   },
   {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
