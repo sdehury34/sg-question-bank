@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Remainder when a cubic polynomial is divided by (2x + 1)",
+    "subject": "amath",
+    "topic": "Remainder and Factor Theorem",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-20",
+    "slug": "remainder-theorem-cubic-by-linear"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -25,6 +34,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "electrolysis-mass-copper-deposited"
+  },
+  {
+    "title": "Finding the empirical formula of an iron oxide from mass data",
+    "subject": "chemistry",
+    "topic": "Empirical and Molecular Formulae",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-20",
+    "slug": "empirical-formula-iron-oxide"
   },
   {
     "title": "Mass of CO\u2082 produced from decomposing 10 g of calcium carbonate",
@@ -63,6 +81,15 @@
     "slug": "binary-search-max-comparisons"
   },
   {
+    "title": "Counting element shifts performed by insertion sort",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-20",
+    "slug": "insertion-sort-count-shifts"
+  },
+  {
     "title": "Evaluating a postfix expression using a stack",
     "subject": "data-structures",
     "topic": "Stacks and Queues",
@@ -99,6 +126,15 @@
     "slug": "speed-distance-quadratic-word-problem"
   },
   {
+    "title": "Finding the cube roots of 8i in exponential form",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Hard",
+    "date": "2026-07-20",
+    "slug": "cube-roots-of-8i"
+  },
+  {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
     "subject": "h2-math",
     "topic": "Sequences and Series",
@@ -124,6 +160,15 @@
     "difficulty": "Easy",
     "date": "2026-07-04",
     "slug": "free-fall-from-45m"
+  },
+  {
+    "title": "Calculating spring constant and elastic potential energy using Hooke's Law",
+    "subject": "physics",
+    "topic": "Forces and Elasticity",
+    "level": "O-Level",
+    "difficulty": "Easy",
+    "date": "2026-07-20",
+    "slug": "hookes-law-spring-constant-energy"
   },
   {
     "title": "Finding where to hang a weight to balance a metre rule",
