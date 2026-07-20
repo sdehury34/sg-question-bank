@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Partial fractions of (5x + 7) / ((x + 1)(x + 2)\u00b2) with a repeated factor",
+    "subject": "amath",
+    "topic": "Partial Fractions",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-21",
+    "slug": "partial-fractions-repeated-linear-factor"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Average rate of reaction from a gas volume-time table for CaCO3 and HCl",
+    "subject": "chemistry",
+    "topic": "Rates of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-21",
+    "slug": "rate-of-reaction-gas-volume-time-data"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -72,6 +90,15 @@
     "slug": "postfix-expression-stack-evaluation"
   },
   {
+    "title": "Counting comparisons and swaps when selection-sorting [29, 10, 14, 37, 13]",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-21",
+    "slug": "selection-sort-comparisons-and-swaps"
+  },
+  {
     "title": "Using the cosine rule to find a side of a non-right-angled triangle",
     "subject": "emath",
     "topic": "Trigonometry",
@@ -97,6 +124,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Solving dy/dx = xy\u00b2 by separation of variables with y(0) = 1",
+    "subject": "h2-math",
+    "topic": "Differential Equations",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-21",
+    "slug": "differential-equation-xy-squared"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
@@ -133,6 +169,15 @@
     "difficulty": "Medium",
     "date": "2026-07-07",
     "slug": "moments-balancing-metre-rule"
+  },
+  {
+    "title": "Calculating water pressure and force at the bottom of a tank",
+    "subject": "physics",
+    "topic": "Pressure",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-21",
+    "slug": "pressure-in-liquids-tank"
   },
   {
     "title": "Current in a combined series\u2013parallel resistor circuit",
