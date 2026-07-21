@@ -18,6 +18,15 @@
     "slug": "tangent-to-cubic-curve"
   },
   {
+    "title": "Solving 2 sin\u00b2x \u2212 cos x = 1 for 0\u00b0 \u2264 x \u2264 360\u00b0",
+    "subject": "amath",
+    "topic": "Trigonometric Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-22",
+    "slug": "trig-equation-quadratic-in-cosine"
+  },
+  {
     "title": "Mass of copper deposited during electrolysis of copper sulfate solution",
     "subject": "chemistry",
     "topic": "Electrolysis",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Finding rate of reaction from mass loss and converting to gas volume",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-22",
+    "slug": "rate-of-reaction-mass-loss-gas-volume"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -61,6 +79,15 @@
     "difficulty": "Medium",
     "date": "2026-07-01",
     "slug": "binary-search-max-comparisons"
+  },
+  {
+    "title": "Building a binary search tree and finding its in-order traversal and height",
+    "subject": "data-structures",
+    "topic": "Trees",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-22",
+    "slug": "bst-insertion-traversal-height"
   },
   {
     "title": "Evaluating a postfix expression using a stack",
@@ -117,6 +144,15 @@
     "slug": "integration-by-parts-x-e2x"
   },
   {
+    "title": "Finding the angle between two vectors and the area they enclose",
+    "subject": "h2-math",
+    "topic": "Vectors",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-22",
+    "slug": "vectors-angle-and-parallelogram-area"
+  },
+  {
     "title": "Free fall \u2014 time and impact speed of a ball dropped from 45 m",
     "subject": "physics",
     "topic": "Kinematics",
@@ -142,6 +178,15 @@
     "difficulty": "Medium",
     "date": "2026-07-04",
     "slug": "series-parallel-resistor-circuit"
+  },
+  {
+    "title": "Predicting the output of a Python word-count dictionary program",
+    "subject": "programming",
+    "topic": "Dictionaries",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-22",
+    "slug": "python-dictionary-word-count-output"
   },
   {
     "title": "Predicting the output of Python list slicing",
