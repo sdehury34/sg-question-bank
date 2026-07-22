@@ -9,6 +9,15 @@
     "slug": "binomial-term-independent-of-x"
   },
   {
+    "title": "Maximum volume of an open-top box from a fixed area of sheet metal",
+    "subject": "amath",
+    "topic": "Applications of Differentiation",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-23",
+    "slug": "max-volume-open-top-box"
+  },
+  {
     "title": "Equation of the tangent to y = x\u00b3 \u2212 4x + 1 at x = 2",
     "subject": "amath",
     "topic": "Differentiation",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Finding the concentration of Fe\u00b2\u207a from a manganate(VII) redox titration",
+    "subject": "chemistry",
+    "topic": "Redox Reactions",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-23",
+    "slug": "redox-titration-manganate-iron"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -63,6 +81,15 @@
     "slug": "binary-search-max-comparisons"
   },
   {
+    "title": "Binary search tree insertion order and traversal sequences",
+    "subject": "data-structures",
+    "topic": "Binary Search Trees",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-23",
+    "slug": "bst-insertion-traversals"
+  },
+  {
     "title": "Evaluating a postfix expression using a stack",
     "subject": "data-structures",
     "topic": "Stacks and Queues",
@@ -81,6 +108,15 @@
     "slug": "cosine-rule-finding-a-side"
   },
   {
+    "title": "Finding mean and standard deviation from a frequency table",
+    "subject": "emath",
+    "topic": "Statistics",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-23",
+    "slug": "mean-standard-deviation-frequency-table"
+  },
+  {
     "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
     "subject": "emath",
     "topic": "Quadratic Equations",
@@ -97,6 +133,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Solving dy/dx = 2x(y \u2212 1) with initial condition y(0) = 3",
+    "subject": "h2-math",
+    "topic": "Differential Equations",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-23",
+    "slug": "differential-equation-2x-y-minus-1"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
