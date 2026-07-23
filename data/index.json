@@ -18,6 +18,15 @@
     "slug": "tangent-to-cubic-curve"
   },
   {
+    "title": "Solving 2sin\u00b2x \u2212 cos x \u2212 1 = 0 for 0\u00b0 \u2264 x \u2264 360\u00b0",
+    "subject": "amath",
+    "topic": "Trigonometric Equations",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-24",
+    "slug": "trig-equation-quadratic-in-cosine"
+  },
+  {
     "title": "Mass of copper deposited during electrolysis of copper sulfate solution",
     "subject": "chemistry",
     "topic": "Electrolysis",
@@ -34,6 +43,15 @@
     "difficulty": "Easy",
     "date": "2026-07-03",
     "slug": "mole-calculation-caco3-decomposition"
+  },
+  {
+    "title": "Calculating rate of reaction and gas volume for marble chips and HCl",
+    "subject": "chemistry",
+    "topic": "Rate of Reaction",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-24",
+    "slug": "rate-of-reaction-marble-chips-hcl"
   },
   {
     "title": "Finding the concentration of NaOH from titration results",
@@ -63,6 +81,15 @@
     "slug": "binary-search-max-comparisons"
   },
   {
+    "title": "Tracing insertion sort on [8, 3, 5, 1, 9, 2] and counting comparisons",
+    "subject": "data-structures",
+    "topic": "Sorting Algorithms",
+    "level": "Poly / University",
+    "difficulty": "Medium",
+    "date": "2026-07-24",
+    "slug": "insertion-sort-trace-comparisons"
+  },
+  {
     "title": "Evaluating a postfix expression using a stack",
     "subject": "data-structures",
     "topic": "Stacks and Queues",
@@ -81,6 +108,15 @@
     "slug": "cosine-rule-finding-a-side"
   },
   {
+    "title": "Probability of drawing two balls without replacement from a bag",
+    "subject": "emath",
+    "topic": "Probability",
+    "level": "O-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-24",
+    "slug": "probability-tree-diagram-without-replacement"
+  },
+  {
     "title": "Solving x\u00b2 \u2212 6x + 2 = 0 by completing the square",
     "subject": "emath",
     "topic": "Quadratic Equations",
@@ -97,6 +133,15 @@
     "difficulty": "Hard",
     "date": "2026-07-05",
     "slug": "speed-distance-quadratic-word-problem"
+  },
+  {
+    "title": "Finding the cube roots of 8i using De Moivre's Theorem",
+    "subject": "h2-math",
+    "topic": "Complex Numbers",
+    "level": "A-Level",
+    "difficulty": "Medium",
+    "date": "2026-07-24",
+    "slug": "cube-roots-de-moivres-theorem"
   },
   {
     "title": "Geometric series \u2014 finding the least n for S\u2099 to exceed 11.9",
